@@ -1,2 +1,2 @@
 # SwiftCreditCardApp
-swift credit card using apiary
+swift credit card with apiary
